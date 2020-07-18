@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977359747768",
+    "firebase_url": "https://lol1-ce34f.firebaseio.com",
+    "project_id": "lol1-ce34f",
+    "storage_bucket": "lol1-ce34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977359747768:android:22ed1285b07b09fcf1924d",
+        "android_client_info": {
+          "package_name": "com.example.lolchatapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977359747768-8bulegp741oci55nkr3q6f3f8or43u17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lolchatapp1",
+            "certificate_hash": "5a19213e49f9b520067a65bbcd7f3fcce070b1ca"
+          }
+        },
+        {
+          "client_id": "977359747768-tqiemcr4dglv3rbabcn6bcrteailmicg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvGvcnjKf0sVtWLQv3e9HQvSr8ANhh83M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977359747768-tqiemcr4dglv3rbabcn6bcrteailmicg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

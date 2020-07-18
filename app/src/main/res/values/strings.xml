@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LolChatApp1</string>
+    <string name="status">Hey , there I am Lolling</string>
+    <string name="image">path.png</string>
+</resources>
